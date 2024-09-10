@@ -1,7 +1,3 @@
-Here’s a concise README tailored for your `eat-n-split` React app:
-
----
-
 # Eat-N-Split
 
 **Eat-N-Split** is a React application for managing and splitting dining expenses with friends.
@@ -60,5 +56,3 @@ The optimized build will be in the `build` folder, ready for deployment.
 - [React Documentation](https://reactjs.org/)
 
 ---
-
-This README provides a brief overview of your app, how to get started, and key features. Adjust as needed based on your specific requirements.
